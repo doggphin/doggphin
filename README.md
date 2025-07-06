@@ -1,6 +1,6 @@
 # Doggphin (Brendan Lancaster)
 
-I like making games, websites, and getting ai to do my work :^)
+I like multiplayer game dev, front + back end dev, and getting ai to do my work :^)
 
 ## 📊 Language Stats
 
