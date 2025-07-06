@@ -1,16 +1,14 @@
-# HI HELLO!!!!
+# Doggphin (Brendan Lancaster)
 
-hi hello welcome to my github account i love coding and making ai code for me :^)
+I like making games, websites, and getting ai to do my work :^)
 
 ## 📊 Language Stats
 
-![Top Langs by repo count](https://github-readme-stats.vercel.app/api/top-langs/?username=doggphin&layout=compact&theme=tokyonight&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doggphin&layout=compact&theme=tokyonight&size_weight=0.3&count_weight=0.7&hide=shaderlab,cmake,hlsl,JavaScript,Svelte,CSS,HTML,Makefile,Batchfile,Powershell,Dockerfile,&langs_count=10)
 
-## ⚡ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doggphin&show_icons=true&theme=tokyonight)
 
 ### 📫 Contact & Links
 
-- 🌐 Website: [brendanl.dev](https://brendanl.dev)
+- 🌐 Resume: [brendanl.dev/resume](https://brendanl.dev/resume)
+- 📝 Game Blog: [brendanl.dev/blog](https://brendanl.dev/blog)
 - 💼 LinkedIn: [linkedin.com/in/brendan-lancaster](https://www.linkedin.com/in/brendan-lancaster/)
