@@ -4,7 +4,7 @@ hi hello welcome to my github account i love coding and making ai code for me :^
 
 ## 📊 Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doggphin&layout=compact&hide=html,css&langs_count=8&theme=tokyonight)
+![Top Langs by repo count](https://github-readme-stats.vercel.app/api/top-langs/?username=doggphin&layout=compact&theme=tokyonight&size_weight=0&count_weight=1)
 
 ## ⚡ GitHub Stats
 
